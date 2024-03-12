@@ -1,1 +1,3 @@
-# ConsoleApp1
+# MORPION
+
+Morpion simple en C# , sans gestion d'error :s 
